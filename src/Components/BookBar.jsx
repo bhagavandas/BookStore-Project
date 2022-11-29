@@ -8,6 +8,8 @@ import InputBase from '@material-ui/core/InputBase';
 // import MenuIcon from '@material-ui/icons/Menu';
 import "./BookBar.css";
 import img1 from './images.png';
+import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
+import { color } from '@mui/system';
 
 
 
@@ -15,7 +17,7 @@ export function BookBar() {
  
   return (
     <div className='root'>
-      <AppBar position="static" sx={{ background:'white'}} className='bar'>
+      <AppBar position="static" className='bar'>
         <Toolbar>
         
           <Typography className='title' variant="h6" ><img className='logo'src={img1} alt="Logo" />
@@ -31,7 +33,10 @@ export function BookBar() {
               variant="outlined"
               inputProps={{ 'aria-label': 'search' }}
             />
+            
           </div>
+          <div className='cartText'> Cart< AddShoppingCartIcon className='cart'/></div>
+          <button className='sign'> <a href="http://localhost:3000/LoginForm" target="_blank" rel="noreferrer">SignIn </a></button>
         </Toolbar>
       </AppBar>
     </div>

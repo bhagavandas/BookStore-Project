@@ -1,0 +1,99 @@
+.Booktitle{
+    margin-left: 160px;
+    font-size: 30px
+}
+.card{
+    width: 235px;
+    height: 315px;
+    margin-left:0px;
+    flex-direction: row;
+    top: 133px;
+    left: 171px;
+width: 235px;
+height: 315px;
+/* UI Properties */
+background: #FFFFFF ;
+border: 1px solid #E2E2E2;
+border-radius: 3px;
+opacity: 1;
+}
+
+.card{
+    width: 235px;
+    height: 315px;
+    margin-left:0px;
+    flex-direction: row;
+    top: 133px;
+    left: 171px;
+width: 235px;
+height: 315px;
+/* UI Properties */
+background: #FFFFFF ;
+border: 1px solid #E2E2E2;
+border-radius: 3px;
+opacity: 1;
+}
+
+.card{
+    width: 235px;
+    height: 315px;
+    margin-left:0px;
+    flex-direction: row;
+    top: 133px;
+    left: 171px;
+width: 235px;
+height: 315px;
+/* UI Properties */
+background: #FFFFFF ;
+border: 1px solid #E2E2E2;
+border-radius: 3px;
+opacity: 1;
+}
+
+.card{
+    width: 235px;
+    height: 315px;
+    margin-left:0px;
+    flex-direction: row;
+    top: 133px;
+    /* left: 171px; */
+width: 235px;
+height: 315px;
+background: #F5F5F5 0% 0% no-repeat padding-box;
+/* UI Properties */
+background: #FFFFFF ;
+border: 1px solid #E2E2E2;
+border-radius: 3px;
+opacity: 1;
+white-space: 810px;
+
+
+}
+.card1{
+    width: 235px;
+    height: 315px;
+    margin-left:0px;
+    flex-direction: row;
+    top: 133px;
+    margin-top: 140px;
+    margin-left: 30px;
+    left: 171px;
+width: 235px;
+height: 315px;
+background: #F5F5F5 0% 0% no-repeat padding-box;
+/* UI Properties */
+background: #FFFFFF ;
+border: 1px solid #E2E2E2;
+border-radius: 3px;
+opacity: 1;
+white-space: 810px;
+
+}
+
+
+.elements{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
